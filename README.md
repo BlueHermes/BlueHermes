@@ -1,5 +1,10 @@
 <div align="center">
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/bluehermes-mark.svg">
+  <img src="assets/bluehermes-mark-navy.svg" width="140" alt="BlueHermes logo: a winged staff rising through an M">
+</picture>
+
 <pre>
          ██████╗ ██╗     ██╗   ██╗███████╗         
          ██╔══██╗██║     ██║   ██║██╔════╝         

@@ -19,7 +19,7 @@
 </pre>
 
 <a href="https://github.com/BlueHermes">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&width=620&lines=Python+specialist;Machine+learning+%26+statistics;LLM-powered+automation+with+n8n+%26+Python;Carrying+messages+between+humans+and+machines" alt="Python specialist · Machine learning · LLM automation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&width=620&lines=Python+specialist;Machine+learning+%26+statistics;LLM-powered+automation+with+n8n+%26+Python;Teaching+Python,+C%2B%2B,+ESL+%26+IELTS;Carrying+messages+between+humans+and+machines" alt="Python specialist · Machine learning · LLM automation" />
 </a>
 
 <br/>
@@ -41,6 +41,9 @@ I came to code from **human factors research**. In my M.Sc. in Ergonomics I mode
 people behave under pressure with Bayesian networks and Petri nets. Today I build systems
 where people and models work together.
 
+I'm also a teacher at heart. I teach **Python and C++** at dplearn, and I've been teaching
+**English (ESL) and IELTS preparation** to private students since 2020.
+
 ```python
 class BlueHermes:
     """Python specialist · Machine Learning · LLM automation."""
@@ -51,7 +54,7 @@ class BlueHermes:
         self.focus     = ["Machine Learning", "LLM-powered automation", "Data analysis"]
         self.daily     = ["Python", "n8n", "LLM APIs", "Docker", "Linux"]
         self.also      = {"C++": "solid, I teach it", "Web design": "I can ship it, not my forte"}
-        self.teaching  = "Python & C++ @ dplearn"
+        self.teaching  = {"Python & C++": "dplearn", "ESL & IELTS": "private students since 2020"}
         self.languages = {"Persian": "native", "English": "fluent"}
 
     def mission(self) -> str:
@@ -89,6 +92,7 @@ Machine Learning .. ████████████████░░░░
 LLM Automation .... ████████████████░░░░  main focus
 Statistics ........ ███████████████░░░░░
 C++ ............... ████████████░░░░░░░░  solid, I teach it
+English / IELTS ... ██████████████████░░  fluent, I teach it
 Web design ........ ███████░░░░░░░░░░░░░  can ship it, not my forte
 ```
 
@@ -99,6 +103,11 @@ Web design ........ ███████░░░░░░░░░░░░░
 - 📊 **ML and data analysis**: statistics, Bayesian networks and predictive models in Python.
 - 🐳 **Self-hosted services** on Linux VPS, deployed and maintained with Docker.
 
+## 👨‍🏫 What I teach
+
+- 🐍 **Python & C++** at dplearn, from core fundamentals to object-oriented programming.
+- 🗣️ **English (ESL) & IELTS preparation**: private tutoring since 2020, focused on IELTS exam preparation. Trained through the 40-hour IELTS Teacher Training Course at Shahid Beheshti University.
+
 ## 🚀 Experience
 
 | Role | Where | When |
@@ -106,6 +115,7 @@ Web design ........ ███████░░░░░░░░░░░░░
 | **Board Member & Head of Technology Development** | Trita AI Engineering | Aug 2026 – now |
 | **Programming Languages Instructor** (Python, C++) | dplearn | Nov 2025 – now |
 | **Freelance Programmer**: bots, automation, self-hosting | Remote | 2024 – now |
+| **ESL & IELTS Tutor** | Private students | 2020 – now |
 | **Head of R&D** | Treata Ergonomics | 2021 – 2023 |
 | **CEO & Founder** | Treata Ergonomics | 2019 – 2021 |
 
@@ -142,7 +152,7 @@ Web design ........ ███████░░░░░░░░░░░░░
 
 <br/>
 
-All from **Quera College**:
+**Programming**, from Quera College
 
 - Project-Oriented Course in Creating Telegram Bots Using Python (Aug 2026)
 - Task-Oriented Course in n8n (Jan 2026): *perfect score*
@@ -150,6 +160,11 @@ All from **Quera College**:
 - Advanced Python Programming & Object-Oriented Thinking: *perfect score*
 - Task-Oriented Course in Fundamentals of Python Programming: *perfect score*
 - Task-Oriented Course in C++ Programming: *perfect score*
+
+**English teaching**
+
+- IELTS Teacher Training Course (40 hours), Shahid Beheshti University, Institute of English Education
+- English Language Course, Iran Language Institute
 
 </details>
 

@@ -1,6 +1,6 @@
 <div align="center">
 
-```text
+<pre>
          ██████╗ ██╗     ██╗   ██╗███████╗         
          ██╔══██╗██║     ██║   ██║██╔════╝         
          ██████╔╝██║     ██║   ██║█████╗           
@@ -16,7 +16,7 @@
 ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝     ╚═╝╚══════╝╚══════╝
                                                    
   ~ python · machine learning · llm automation ~   
-```
+</pre>
 
 <a href="https://github.com/BlueHermes">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&width=620&lines=Python+specialist;Machine+learning+%26+statistics;LLM-powered+automation+with+n8n+%26+Python;Carrying+messages+between+humans+and+machines" alt="Python specialist · Machine learning · LLM automation" />
@@ -161,9 +161,9 @@ All from **Quera College**:
 
 <div align="center">
 
-```text
-   ~~~~>  hermes.send(to="humans", via="machines")  <~~~~
-```
+<pre>
+   ~~~~&gt;  hermes.send(to="humans", via="machines")  &lt;~~~~
+</pre>
 
 <sub>Hermes carried messages between gods and mortals. I carry them between humans and machines.</sub>
 
